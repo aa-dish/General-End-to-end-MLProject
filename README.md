@@ -41,7 +41,7 @@ Understanding the importance of MLOps practices for real-world applications
 **How to Run the Project**
 
 1. Clone the repository
-<pre> ```bash git clone https://github.com/your-username/mlproject.git cd mlproject ``` </pre>
+```bash git clone https://github.com/your-username/mlproject.git cd mlproject ```
 
 2. Create a virtual environment & activate it
 python -m venv venv
